@@ -1,1 +1,3 @@
-My second readme
+GitHub repository: alx-pre_course
+Directory: 0x01-git
+File: README.md, up_to_date
